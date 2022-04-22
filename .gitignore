@@ -2,3 +2,8 @@
 /public/build/
 
 .DS_Store
+
+# vscode
+.vscode/
+*.code-project
+*.code-workspace
